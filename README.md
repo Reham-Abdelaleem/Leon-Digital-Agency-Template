@@ -1,6 +1,6 @@
 # Leon - Creative Digital Agency Template
 
-![Leon Template Screenshot](images/services.jpg)
+![Leon Template Screenshot](images/main-section.jpg)
 
 ## Description
 Leon is a minimal and responsive web template for creative digital agencies.  

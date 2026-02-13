@@ -21,6 +21,9 @@ It includes sections for landing, features, services, portfolio, about, and cont
 - Font Awesome  
 - Google Fonts (Work Sans)
 
+## Live Demo
+https://leon-digital-agency-template.netlify.app/
+
 ## Usage
 1. Clone or download the repository:
    ```bash
